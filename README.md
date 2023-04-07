@@ -51,5 +51,6 @@ Express - Backend web framework used to build the API
 React - Frontend JavaScript library used to build the user interface
 Redux - State management library used to manage app data
 Node.js - JavaScript runtime used to build the backend server
+Tailwind CSS - CSS framework used for styling the user interface
 
 Created by Mohammed Faisal Hussain
